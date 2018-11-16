@@ -1,4 +1,4 @@
-# Stanford-University-Self-Paced-Database-MySQL-quiz-solution
+# Stanford University Self Paced Database MySQL Quiz solution
 
 SQL
 
